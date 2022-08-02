@@ -11,3 +11,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+Clone github repository and add CodeOwners file in separate branch and submit a pull request to Vanessa, then setup docker on your local machine and check if backend and frontend is working fine.
