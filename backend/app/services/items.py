@@ -11,7 +11,6 @@ async def check_item_exists(items_repo: ItemsRepository, slug: str) -> bool:
         await items_repo.get_item_by_slug(slug=slug)
     except EntityDoesNotExist:
         return False
-
     return True
 
 
